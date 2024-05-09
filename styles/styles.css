@@ -21,7 +21,7 @@
   --highlight-background-color: grey;
 
   /* fonts */
-  --body-font-family: DINOTRegular;
+  --body-font-family: Gotham Rounded;
   --heading-font-family: var(--body-font-family);
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
